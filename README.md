@@ -7,3 +7,5 @@ Aprendimos los comandos
 `git add NOMBREARCHIVO`: Añade un archivo al "stage" para luego ser commiteado.
 
 `git commit -m "MENSAJE EXPLICATIVO"`: Crear un commit para añadir estos cambios a la historia del proyecto
+
+`git checkout HASH`: Nos permite navegar en la historia del proyecto
